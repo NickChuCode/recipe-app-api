@@ -2,6 +2,7 @@
 Calculator functions
 """
 
+
 def add(x, y):
     """Return the sum of the two argument
 
@@ -13,6 +14,7 @@ def add(x, y):
         Number: sum of number1 and number2
     """
     return x + y
+
 
 def subtract(x, y):
     """Return the result of x subtract y
